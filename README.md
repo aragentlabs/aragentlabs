@@ -1,5 +1,7 @@
-## Hi there 👋
+Aragent 🚀
+Shaping the future of decentralized intelligence.
 
+Welcome to Aragent, where blockchain meets AI innovation. We empower global communities to train, deploy, and personalize advanced AI models through Solana’s speed and scalability. Together, we’re building an open, equitable future for AI.
 <!--
 **aragentlabs/aragentlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
