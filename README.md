@@ -29,9 +29,9 @@ Ara is a decentralized platform built on Solana’s high-speed blockchain, lever
 - Open-source libraries with extensible interfaces for custom AI and blockchain workflows  
 - Robust Rust-based smart contract templates for rapid development
 
-## 🛠️ Our Projects
- ## Ara - Decentralized AI Training Platform
- ## Ara leverages Solana’s blockchain and decentralized protocols to enable global collaboration for training large-scale AI models. The platform allows contributors to share computational power and be rewarded with tokens, creating a self-sustaining ecosystem for AI innovation.
+ ## 🛠️ Our Projects
+  Ara - Decentralized AI Training Platform
+  Ara leverages Solana’s blockchain and decentralized protocols to enable global collaboration for training large-scale AI models. The platform allows contributors to share computational power and be rewarded with tokens, creating a self-sustaining ecosystem for AI innovation.
 
 ## Key Features:
 
@@ -39,7 +39,7 @@ Ara is a decentralized platform built on Solana’s high-speed blockchain, lever
  Token-based rewards for incentivized participation
  Scalable AI model training powered by Solana's blockchain
  Modular Rust-based architecture for extensibility
- Explore Ara in its repository.
+ Explore Ara in its repository. https://github.com/aragentlabs/aragentlabs/blob/d847967c0bb1c85d56fd67874b44b1d589adef1b/ara.rs
 
 
 
